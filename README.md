@@ -88,4 +88,5 @@ graph LR
 ---
 联系我: [619939394@qq.com]  
 
-简历与更多项目: [https://www.kdocs.cn/l/cpZaaSTt9WTF] 
+简历与更多项目: [https://www.kdocs.cn/l/cpZaaSTt9WTF] [https://huggingface.co/spaces/changqing11/my_ai_chatbot] 一个简易的聊天机器人
+
