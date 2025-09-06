@@ -52,7 +52,7 @@ AI面试官 - 交互式技术演示
 
 项目架构
 
-```mermaid
+mermaid
 graph LR
     A[用户输入] --> B(Gradio UI界面)
     B --> C{Python后端}
@@ -87,4 +87,5 @@ graph LR
 
 ---
 联系我: [619939394@qq.com]  
+
 简历与更多项目: [https://www.kdocs.cn/l/cpZaaSTt9WTF] 
