@@ -35,7 +35,7 @@ AI面试官 - 交互式技术演示
     ```bash
     # 复制环境变量示例文件并配置您的API密钥
     cp .env.example .env
-    # 在.env文件中填写：OPENROUTER_API_KEY='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'
+    # 在.env文件中填写：OPENROUTER_API_KEY='API密钥'
     ```
 
 3. 启动应用：
@@ -89,4 +89,5 @@ graph LR
 联系我: [619939394@qq.com]  
 
 简历与更多项目: [https://www.kdocs.cn/l/cpZaaSTt9WTF] [https://huggingface.co/spaces/changqing11/my_ai_chatbot] 一个简易的聊天机器人
+
 
